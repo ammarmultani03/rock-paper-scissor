@@ -53,7 +53,7 @@ File Structure
 
 Demo
 
-Live Demo Link :
+Live Demo Link : https://ammarmultani03.github.io/rock-paper-scissor/
 
 Installation
 
